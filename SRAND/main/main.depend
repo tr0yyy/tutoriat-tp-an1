@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1615394497 source:d:\253\semestrul 2\tutoriat-tp-an1\srand\main\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+
