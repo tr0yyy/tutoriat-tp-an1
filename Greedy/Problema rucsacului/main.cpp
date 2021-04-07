@@ -3,7 +3,6 @@
 
 using namespace std;
 
-/// se dau n obiecte si preturile lor. sortati descrescator dupa pret
 
 struct obiect{
     int greutate, pret;
